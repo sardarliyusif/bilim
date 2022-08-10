@@ -1,0 +1,38 @@
+.typography {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    color: black;
+
+    &.small {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    &.medium {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    &.large {
+        font-size: 36px;
+        font-weight: 900;
+    }
+}
+
+.secondary, .link {
+    color: #333;
+
+    &.small {
+        font-size: 12px;
+    }
+    &.medium {
+        font-size: 14px;
+    }
+    &.large {
+        font-size: 16px;
+    }
+}
+
+.link {
+    color: #4747fd;
+}
