@@ -4,11 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import './styles/index.css';
 import App from './App';
 
-<<<<<<< HEAD
-// this is conflict
-=======
-// this will be conflict
->>>>>>> 673a0488720da9ca2148972103d5d4d25134bf7f
+// Conflict resolved
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
